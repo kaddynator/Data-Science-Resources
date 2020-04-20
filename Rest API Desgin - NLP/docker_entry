@@ -1,0 +1,4 @@
+#!/bin/bash
+export FLASK_APP=app_instance.py #SET
+#flask deploy
+flask run

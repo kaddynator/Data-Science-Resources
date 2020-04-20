@@ -1,0 +1,282 @@
+EventClass	Tip
+MentalHealth	My friend is suicidal
+MentalHealth	I am thinking of harming myself
+MentalHealth	my coworker has been drinking more recently. I know things have not been going well at home, so he may need a check-in from someone.
+MentalHealth	I'm worried about my friend health, they have been depressed
+MentalHealth	I feel depressed
+MentalHealth	My depression has been really bad lately
+MentalHealth	My friend is thinking of committing suicide
+MentalHealth	I am suicidal
+MentalHealth	I am having a panic attack
+MentalHealth	This person sounded suicidal
+MentalHealth	Someone was talking about suicide on a message board
+ViolentCrime	There is a man outside carrying a gun
+ViolentCrime	An employee has a gun
+ViolentCrime	My roommate has a gun
+ViolentCrime	Gunshots in the building
+ViolentCrime	I heard gunshots nearby
+ViolentCrime	There is a shooter on campus
+ViolentCrime	Assault happening outside
+ViolentCrime	Fighting happening right outside
+ViolentCrime	2 guys fighting with knives near the lobby
+Threat/VerbalAbuse	This guy is threatening people in the store
+Suspicious/UnattendedPackage	Unattended package left in the lobby
+Suspicious/UnattendedPackage	Suspicious package on the floor
+Suspicious/UnattendedPackage	Unattended baggage nearby
+ViolentCrime	I just got shot by a guy
+ViolentCrime	Someone has been shot
+ViolentCrime	Did anyone get shot?
+Demonstration/Protestors	There are protestors near the front gate
+Demonstration/Protestors	Protestors coming down the street
+Demonstration/Protestors	Crowd of protestors out front
+Demonstration/Protestors	Protests are scheduled for this afternoon
+Demonstration/Protestors	Are there protests today?
+MentalHealth	**would like to remain anonymous** My roommate told my other roommate that she had research how to kill herself with her antidepressant medicine. She has mentioned she needed to get connected here with a counselor. I have offered to go with her to counseling center but she refuses. I do not want to force her to go but I know she needs help.
+MentalHealth	**would like to remain anonymous** My roommate told my other roommate that she had research how to kill herself with her antidepressant medicine. She has mentioned she needed to get connected here with a counselor. I have offered to go with her to counseling center but she refuses. I do not want to force her to go but I know she needs help.
+MentalHealth	This person is just continuously yelling and saying very random things
+MentalHealth	I am concerned for my friend
+MentalHealth	Person is threatening suicide
+MentalHealth	Person is threatening suicide
+MentalHealth	I'm concerned that my roommate may be depressed. Is there a way I can help her get the resources she needs?
+MentalHealth	I'm concerned that my roommate may be depressed. Is there a way I can help her get the resources she needs?
+MentalHealth	I had a panic attack due to my ptsd from watching My best friend get killed and I hyperventilated to the point of passing out after ## minutes Received this email from student and I am concerned. I told her to reach out to one of the many campus resources.
+MentalHealth	hi, do yall have the contact for who I should contact for a friend who may have overdosed in staunton? she took fentanyl and methadone and has been throwing up, but as far as I'm aware has no other symptoms. it was intentional and is talking desire to finish off rest of what she has. I've kept her texting me so far and she seems coherent. i asked about calling a wellness check and she asked me not to, but I just want to stay safe not sorry.
+MentalHealth	Harm myself
+MentalHealth	Harm himself
+MentalHealth	Harm herself
+MentalHealth	Harm themself
+MentalHealth	Harm themselves
+MentalHealth	Is there a counselor or something I could talk to? I am really overwhelmed right now and I don’t know where to go.
+MentalHealth	my boyfriend has been threatening suicide and hasnt been heard from
+MentalHealth	A girl named [PERSON] told me she was planning on killing herself. Not immediately but soon. Soon after she messaged me on social media seen in the photos attached, I was with her and she told me how she was planning to kill her self. I[PERSON] worried that she might go through with it since she said her mind was made up. I hope I spelled her name right. If not, she is an upcoming sophomore at [ORG]. I hope I made the right choice by sending this message to whoever reads this since she said if I told anyone, she would kill her self sooner.
+MentalHealth	Welfare check
+MentalHealth	welfare check
+MentalHealth	Hi My room mate is behaving strangely today. I reported the last time and you considered hospitalizing him. He is strangely dressed and has moved most of his stuff in the hall
+MentalHealth	Hey it is a mental ill person in front of the new science and technology center and [PERSON] walking around.
+MentalHealth	Mentally ill
+MentalHealth	Mental illness
+MentalHealth	Hurt himself
+MentalHealth	Hurt herself
+MentalHealth	hurt themself
+MentalHealth	Hurt themselves
+MentalHealth	The person named [PERSON] in [FAC] room ### was shouting/ranting, slamming his door, smashing property in his room. The [NORP] approached him begging him to calm down, and he yelled back at him to "call [ORG]" and refused to calm down. He is moaning in his room but has otherwise seemed to have calmed down. I just dont want anyone to get hurt by him if he rages again.
+MentalHealth	I want to kill myself
+MentalHealth	I am thinking of killing myself
+MentalHealth	I just woke up and looked at my phone, and my friend texted me that she was going to kill herself and basically just said bye. I have a psychology major and I’ve been suicidal myself, and I really think she was serious.
+MentalHealth	My roommate is screaming and crying and throwing things and breaking things and saying concerning things.
+MentalHealth	Is there someone I’d be able to talk to? I'm having flashbacks that I can’t manage on my own. I'm not a danger to myself or to anyone else but I'm struggling due to PTSD like symptoms.
+Suspicious/UnattendedPackage	someone left a bag by the stairs near the entrance
+Suspicious/UnattendedPackage	no one has come and collected these boxes for a while, can someone please check these?
+ViolentCrime	Several gun shots on corner of ##th and kill an
+ViolentCrime	I heard multiple gunshots near my apartment on Main St. Could have been fireworks, but it definitely sounded like gunfire.
+Drugs/Alcohol	A girl is walking down 14th by puts and was very drunk and did not seem to have her phone on her. We tried to help her but didn’t reply to us.
+ViolentCrime	Two men are fighting in the alley outside the Chemistry Building. Lots of punches being thrown.
+MentalHealth	I was talking to a mentee a yesterday. She explained to me how her day had been, she was very emotional when she called so I did my best to calm her down. I know she has been going through a lot...I’m not sure how the campus area works with crisis situations so I was wondering what needs to be done. Do I need to do anything since I feel as though she’s in destress?
+Suspicious/UnattendedPackage	Backpack left unattended
+Suspicious/UnattendedPackage	Suspicious package at door 4
+Suspicious/UnattendedPackage	this looks like a suspicious package
+ViolentCrime	There is a shooter in the building
+Suspicious/UnattendedPackage	this bag was left behind after tonight's event. can someone please inspect the bag.
+ViolentCrime	I heard gunshots in the Capitol Hill neighborhood.
+ViolentCrime	Shots fired near the cafeteria.
+Suspicious/UnattendedPackage	I see a black box outside of Willet's South, outdoor side of the building. I am not sure what that it is, and who owns it, while it has been for some time. I would really appreciate if someone give it a look.
+MentalHealth	I am worried about my friend - something just doesn't seem right
+Harassment/Abuse	someone at the lunch table is trying to show creepy videos to the rest of us and he won't stop
+Demonstration/Protestors	moving down 3rd street
+ViolentCrime	crazy post and i dont know if its real but i dont want anyone to get hurt
+Suspicious/UnattendedPackage	There is an amazon box sitting on the east bench in the quad
+MentalHealth	My roommate seems depressed, and very rarely leaves the dorm. He stays in bed most of the time
+Drugs/Alcohol	I saw my coworker snorting coke in the restroom stall
+ViolentCrime	Two employees are fist fighting in the break room
+MentalHealth	I recently lost a parent and am not doing very well.
+Harassment/Abuse	My ex will not leave me alone and keeps showing up at my work.
+Suspicious/UnattendedPackage	There is a backpack sitting in the hallways unattended.
+Threat/VerbalAbuse	A guy I met is threatening to publish nude photo of me.
+Threat/VerbalAbuse	A girl in my dorm is mad at me and said she's going to be waiting outside my classroom tomorrow.
+Demonstration/Protestors	People online are talking about having a protest tomorrow in the courtyard.
+ViolentCrime	Someone was stabbed.
+MentalHealth	I’m pretty sure everything ok but I just have been having a really tough time.
+Drugs/Alcohol	I think my roommate is an alcoholic.
+Suspicious/UnattendedPackage	Saw somebody I didn’t recognize leave a bag or box or something in the lobby. Hard to tell what it is.
+ViolentCrime	I just got jumped.
+Harassment/Abuse	I don’t like when my co worker gets so close. I’m uncomfortable talking about it like this.
+Demonstration/Protestors	Protestors are throwing glass bottles into the crowd of riot officers
+Drugs/Alcohol	I saw a bottle of vodka in my coworker's desk drawer
+Threat/VerbalAbuse	I can tell my office doesn’t like me or think I belong. Feels like they don’t want me there. I don’t know anyone. I need this job.
+Harassment/Abuse	I overheard two guys making sexual comments about my friend saying she has a "big old booty"
+ViolentCrime	someone buried a body in North Hill Park in ffx county
+MentalHealth	i been feeling down and i don't know what to do
+Drugs/Alcohol	Some guy just offered to sell me coke
+Drugs/Alcohol	Joe Smith is using his Snapchat account to sell drugs
+ViolentCrime	two drunk SA members are fighting outside the dining hall
+MentalHealth	I think my roommate might be anorexic
+MentalHealth	A suspicious women got naked on the public in the parking area.
+Harassment/Abuse	Dr. Monk slapped my butt. It made me very uncomfortable...
+Drugs/Alcohol	I assume that one of my friends uses drugs. He has glassy eyes and sudden change in behavior from euphoria to depression. He sleeps a lot and almost doesn't eat. He lost all his interests. I don't know how to help him. When I ask him he is nervous and doesn't respond directly.
+MentalHealth	I want it all to end.
+Threat/VerbalAbuse	My ex-colleague called me and blamed me that I complained your boss about him and he was fired. I am afraid of him because he is pretty aggressive person. I am not sure what to expect from him.
+Threat/VerbalAbuse	This guy on my team keeps yelling at me even when I did nothing.  I feel like he is going to do something more dangerous
+Drugs/Alcohol	My roommate has a huge bag of pot in our room.  I told him not to keep drugs in our room, but he won't listen.
+Suspicious/UnattendedPackage	I saw this guy waiting at the metro with a big black box.  He walked away from the box.  It looks like some type of lock box.
+Harassment/Abuse	The office happy hour is out of control.  I don't feel safe because Bill keeps asking me out.  He know I am not interested, but seems intoxicated and keeps bothering me.
+ViolentCrime	I saw a man shouting in the plaza with a knife hanging off his belt. Seems like the situation could escalate very quickly.
+Harassment/Abuse	Ken won't stop coming on to me, even after I asked him to stop. He said I "look pretty when I'm angry"
+MentalHealth	I’m trying to keep my mind in the right place but I’m lonely and have no friends or any support, I’m trying to be independent until my only friend recovers from the stress my last attempt caused to him (he asked for time and space) but Im going crazy, imagining that he’s making excuses and that I’m burden, you know typical stuff.
+MentalHealth	I keep thinking about ways to go and ease this pain, I feel so bad for feeling so lonely and not being independent enough to be able to do this alone but I won’t go back to my job until next month and need to be in the right environment with friends and love and support to get through this but it is so hard
+MentalHealth	I don’t want to live anymore. I’m so tired. I’m so alone. I try so hard and just. fail. at everything. I’m not smart or capable enough. I’m disappointed in what my life has turned into. What I’ve turned it into. I just don’t want to do it anymore
+MentalHealth	Even if I had no financial problems and the motivation to change my life, it would still take me years to get to a comfortable place and I know I can't take that anymore.  Anyway, I already realized I'm way beyond the point of no return and I saved up money to buy a gun for a fast painless death. The urge to kill myself has been pretty high these days and I think I'm finally so close to it.
+MentalHealth	I’m just so tired now, I’m just finishing my finals so my mom doesn’t suspect anything. When I’m finished with school, I’ll finally be free. It’s been more than a decade, I’m now 20 years old.  I’m tired.
+MentalHealth	I have been thinking of trying to call one because I feel really suicidal and unsafe with myself, but I can’t see the point. In the past, when I have called, all they do is mirror you and ask open questions. “Wow, it sounds like things are really hard for you right now, what are some things that you think would make living seem worthwhile?” That kind of thing. Like, no fucking shit, things are hard right now. If I knew what would make life seem worthwhile, I wouldn’t want to call you or kill myself. It’s the same for every mirror/question they throw at you. Does anyone know why they’re like this? It always seems so fake and scripted.
+Suspicious/UnattendedPackage	Found a little tin foil package with 3 pills in, seems suspicious and I'm wondering what they are
+Suspicious/UnattendedPackage	I found the source of the "suspicious package" a week ago..
+Suspicious/UnattendedPackage	Police have found a "suspicious package" located in Piccadilly Gardens and large sections have been cordoned off. Stay safe.
+Suspicious/UnattendedPackage	So earlier today, I went to the mailbox today to get our mail and found a suspicious package, obviously for my little brother, and I looked at who it was from.
+Suspicious/UnattendedPackage	Today an airport near me was locked down due to a suspicious package. Everything turned out fine, but I found this quote in a news article about it.
+Suspicious/UnattendedPackage	"chafetz chashut" is one of the first phrases I learned there. It means suspicious package. This shit happens all the time there.
+Suspicious/UnattendedPackage	Man this came out of nowhere! I found a suspicious package at my home today and I had no idea what it was all about. I actually thought it was a shoe shine kit that I ordered from Amazon. You couldn't believe my surprise when I found an amazing bomb from rdshrk.
+Suspicious/UnattendedPackage	Soooo... I went to mail a package earlier today and found my local PO was barricaded off by armed police officers for a block around. Evidently they found a suspicious package.
+Suspicious/UnattendedPackage	Saw multiple access roads closed by patrol cars and some 35 exits being blocked going south on 35. Anyone have any ideas?  Edit: Looks like TCSO found a suspicious package at the McDonald's that's connected to the Exxon.
+Suspicious/UnattendedPackage	At 6:30 this morning, I found a suspicious package at my bus stop. It was a milk crate with a bag inside and a sign reading "free bagels". Now, this bus stop is outside several large apartment complexes, and awfully close to several school. My concern was that there was poison or something and a kid would pick them up and eat them.
+ViolentCrime	There's a woman with a gun.
+Threat/VerbalAbuse	TJ threatened to fire me if I told anyone about his affair
+Suspicious/UnattendedPackage	A women just dropped her bag on the seat next to me and then ran away
+Suspicious/UnattendedPackage	There is a package sitting outside the south entrance that has been there since this morning.
+Demonstration/Protestors	Crowd of protestors gathering in front of the NBC Building. They are getting loud and angry.
+Demonstration/Protestors	Large group of people marching down Pennslyvania Avenue. They are blocking traffic and pushing people on the sidewalks.
+Harassment/Abuse	My direct supervisor has repeatedly made sexual advances in the last 2 weeks even though I've firmly asked him to stop, I don't know who to tell, please help.
+Harassment/Abuse	I'm getting tired of the "locker Room" banter. I find it offensive and has spoken to my manager and nothing has changed.
+Demonstration/Protestors	A group of protestors seems to be getting more rowdy. I think they could break into riots if left unchecked.
+MentalHealth	My roommate has not left the apartment for 2 weeks.
+Drugs/Alcohol	my co worker smells of booze after lunch every day.
+Suspicious/UnattendedPackage	A strange smell is coming from a box sitting outside the mailroom
+Drugs/Alcohol	I saw a guy in the mens room dringing from a bottle and it smelled like alcohol
+Threat/VerbalAbuse	I was told to shut the fuck up.
+Demonstration/Protestors	Demonstrators are outside protesting something and keeping people from getting into the building.
+Drugs/Alcohol	One of my co-workers keeps a bottle of vodka in a file cabinet @ her cubicle.  I witnessed her pouring some into her spill proof cup this morning.  I am not sure who to tell, please advise.
+Demonstration/Protestors	Students are staging a sit-in in Rooks Hall. It's a peaceful protest at this point, but counter-protests might escalate tensions.
+Suspicious/UnattendedPackage	There is a suspicious package sitting near the subway entrance. Someone should take a look.
+Suspicious/UnattendedPackage	I have seen multiple unattended packages left near stadium entrances on gameday. Security should be much tighter than this.
+Suspicious/UnattendedPackage	there has been a amazon box in the pick bin for three days
+MentalHealth	My friend Billy has been awfully down lately, talking about how he doesn't enjoy anything. I think he needs some professional help to get out of this funk as my attempts have not worked. I am concerned for his mental well being and that he may hurt himself.
+Drugs/Alcohol	There is a homeless person outside the building that seems to be passed out, I think they may need medical attention.
+MentalHealth	A coworker on my team appears to be very depressed.  She has been frequently crying @ her desk.  I don't know how to help and I'm very concerned for her.
+Suspicious/UnattendedPackage	There's an unattended backpack in the West Lake foyer; it has been here for some time now.
+Harassment/Abuse	I heard Joe telling off color jokes and there were ladies hearing his material.  I think they were afraid to voice their opinion
+Drugs/Alcohol	It smells like a damn Snoop Dogg concert on the 5th floor near Room 502. It's a school night and it's hard to focus on my studies.
+Drugs/Alcohol	I have noticed my office mate tends to be very sleepy and in unfocused everyday after mid morning break
+MentalHealth	I am concerned about my coworker, I saw him looking very distraught and heard him crying in his car.
+MentalHealth	I heard a coworker tell someone hes very very depressed
+Harassment/Abuse	I am tired of hearing about what out idiot president does every.
+Suspicious/UnattendedPackage	When I came into the office doors, I noticed a suspicious package on the floor.  Its probably nothing
+Suspicious/UnattendedPackage	There is a backpack @ the bus stop outside the main entrance.  It's been there for almost an hour.  Can someone please have a look?
+Demonstration/Protestors	Overheard coworkers discussing their plans to set fire to the flag in front the building
+Threat/VerbalAbuse	A coworker was complaining because he was writtein up for being late.  Hes very very angry and was making threats he will seek revenge
+MentalHealth	I have to continually explain to my co worker that the office manger is not to get her.
+Harassment/Abuse	I wore a new blouse today and felt like the men were finding excuses to visit my desk and look down my shirt
+Demonstration/Protestors	the Primary office across the street has a very large group with signs outside of it.
+Suspicious/UnattendedPackage	There's an unattended bag left behind after the game, attached is a photo.
+Suspicious/UnattendedPackage	A man just left his briefcase on the ground outside of the Mark Building to the left of the main entrance and walked away. Security needs to check on it right now.
+Threat/VerbalAbuse	I got into a disagreement over policy and was asked if I like my job in a very snarky
+Harassment/Abuse	I feel like my coworkers are talking behind my back about my work
+Harassment/Abuse	I keep getting harrassed during sets, between sets, and even on my way back to the elevator home.
+Harassment/Abuse	Squads are my favorite to play, but it's become a problem because I KEEP getting harrassed, at least 1 out of 3 matches I join. The moment a creep hears my voice (which I even deepen, but they still know I'm a woman), they say disgusting things, and the other 2 players just usually laugh with him.
+Harassment/Abuse	keep getting harrassed by my mom's ex boyfriend [50ishM] NEED LAW HELP
+Harassment/Abuse	My fiance keeps getting harrassed by an ex of hers. What do I do?
+Harassment/Abuse	I literally keep getting harrassed with spam from their little mailing lists,
+Harassment/Abuse	About a month and a half ago A was being harrassed by a male client (C) and C LICKED HER. I pulled A into the office and she said in the morning she'd like to discuss boundaries with C, and I was told by staff to not give C a consequence because I didn't "actually see him lick her and have proof".
+Harassment/Abuse	I am getting many unwanted comments by another employee who has autism. It is to the point that I am getting very uncomfortable in the workplace. I love my job so much but this person is really putting a damper on my experience there.
+Harassment/Abuse	Hey everyone, so for the past month or so I have been dealing with a girl that has been harassing me in multiple ways and she will not stop no matter what I try to do.
+Harassment/Abuse	ok so i was in school at the time and my fs were getting harrassed by the u guessed it fep and she is just yelling at the top of her lungs btw there is 300 people in my school and she is sexturelly putting her hands on f
+Harassment/Abuse	Minding my own business, girls start harrassing and assaulting me, defend myself, get ridiculed by others, I tell teacher, teacher doesn't care, day goes on, another girl throws apples at me repeatedly, throw them back at her after I had enough, staff sees this, makes me clean up the lunchroom so I don't get detention, and I still get detention.
+Harassment/Abuse	My colleague often gives me compliments about my legs, and he told me inappropriate jokes. I really don't like these situations, and I avoid being too close to him. But I need to go with him on a business trip next week, and I’m afraid to be alone with him.
+Drugs/Alcohol	smells like marijuana on the fourth floor of the raks 1000 side
+Suspicious/UnattendedPackage	a man slipped what looked like a full backpack into a trashcan and ran away
+ViolentCrime	I just saw a guy get sucker punched in the jaw by a crazy homeless man in the crosswalk by Wendy's. The homeless guy ran off down the street. The victim seems okay but looks angry.
+ViolentCrime	stabbing in the parkinglot
+Drugs/Alcohol	There was a guy passed out in the parking lot, seemed drunk or on drugs
+Harassment/Abuse	My x keeps calling me and emailing me and I'm worried he'll show up at my house or office
+Suspicious/UnattendedPackage	Someone left a box in the hall near the stairs  exit
+MentalHealth	My roommate has been crying every night about how miserable her experience at school is going.
+Harassment/Abuse	My Coworker Mary Kate has a huge bruise on her arm. Not sure how serious it is but I do know that her and her husband having been going through a rough patch at home.
+Suspicious/UnattendedPackage	*photo attached* This Car has been parked here for 7 days in a row.
+ViolentCrime	I got jumped and had my wallet stolen.
+Suspicious/UnattendedPackage	There is an unmarked package outside of the library.
+Harassment/Abuse	I'm being harassed by a guy who's also a TA. I have blocked him on all medias. He has started messaging my friends. I'm concerned that he may be doing it to other people, as he does have a TA position for a first-year course in his program.
+Harassment/Abuse	I’m a 18 year old male and I work at the mall and there’s this guy that always comes in and talks to one of my coworkers and he talks like your typical Cali surfer weed smoker. So my coworker kinda just teases him but the guy doesn’t realize we’re doing it and he thinks we’re being his close friend. So I started to join in the chat everytime he came into the store and I he asked for my number cause he thought I was “cool” so I gave it to him and then he started to text me. (This is where it starts to go down hill) so at first he just wanted to my number cause he wanted to see if we had deals in my store but eventually he started texting me and I would barely reply with a “yea” or “ok” then when I would take about 10 minutes to reply he would spam me with 9 or 10 messages saying “you there bro?” Or “are you ignoring me” I didn’t wanna be rude so I just said I was doing something. So I told my coworkers to tell him I don’t work at the mall anymore. So he would stop coming by. Today he came in and my friend told him that I got fired or something and then my coworkers told me that if he finds out I still work there he’ll be pissed and that I put my self in a bad situation. Which I agree I did. So I texted him today saying that my friend was joking with him and he was cool about it but then he said he hated the coworker that told him I got fired. I told him he was just joking and he said okay. So basically idk how to stop being friends with this guy cause if he finds out I’m ignoring him he’ll hurt me. (Btw this guy is pretty strong and buff.) so idk what to do know and now I look so stupid in front of my coworkers and I’m so stupid for putting my self in a bad situation I fucking hate myself and wanna kill my self. I go in tomorrow and my coworkers are gonna think of me as a fucking idiot. Fuck my life. I just don’t know how to handle this situation. If this didn’t make sense lmk. If you made it this far thanks I appreciate at least someone seeing this.
+Harassment/Abuse	I'm a single mom and someone I don't even know has begun to harass me. Yesterday he started texting me again. I told him it was harassment and to stop, but he continued, so I opened a case with the police. I don't know what to do. I don't know how to make it stop.
+Harassment/Abuse	Help I'm being harassed at work by customers.
+Threat/VerbalAbuse	I was in my car by the side of the road reading a map and minding my own business when six huge dudes came up and told me I had to move. I don't think I was actually doing anything wrong and I'm pretty sure they were just hassling me.
+Harassment/Abuse	 There is a female office employee that's always making comments about, "how great my legs look," "it should be summer all the time," etc. I dread anytime I have to punch the clock. I brought this up with my supervisor and he laughed at me at first. Once I let him know I was really sick of it, he promised to contact her supervisor. Nothing at all had changed. She's makes her comments in front of my fellow warehouse employees, and I get picked on for it. What options do I have?
+Harassment/Abuse	I checked my email today and saw that I received an email from some weird email address. I opened it up and said that the sender recorded me through my phone during my private times and that If I don’t pay him in bitcoin, he would release the footage to my contacts. What should I do?
+MentalHealth	My depression has been doing so good, I’m so proud. But my mom passed away last night. Really needing positivity in these trying times.
+MentalHealth	I've been struggling with depression for about three months now. I've had severe depression, social anxiety and panic attacks in the past from 2016 to beginning of 2018, harmed myself and tried suicide a few times, but I started a treatment, took medications and got "cured".
+MentalHealth	Now all of these depressed feelings are coming back and I'm panicking. I have no motivation whatsoever to go to work (I'm arriving at least one hour late every single day), I cry every morning and every night, I'm becoming paranoid with my boyfriend and relationships in general, thinking no one would want to be with me 'cause I'm a failure, I get too anxious to reply to anyone, I'm feeling alone, abandoned, ugly, insecure, unworthy, stupid, and weak.
+MentalHealth	I can't fucking take it anymore... cant live, cant die, I just want to die so bad. I've been like this for years. I've tried meds, ive tried being active, having interests or whatever, but it's useless... life is useless,. A pointless labor. I just want out
+MentalHealth	Lately, every morning I wake up my first thought is, “kill yourself.” I’m so tired of existence. I’m so tired.
+MentalHealth	I've been having nightmares for 5 days in a row now. Before that I was having normal dreams (as far as I can remember). And now I'm waking up having panic attacks because of these nightmares.
+ViolentCrime	AB apparently left work early in a rage, and came the whole way back from the Bronx just to barge in. He screamed. He made threats. He spit in my mom's face. I stood up and got in his face, and he ran into BF's room and, locking the door behind him, proceeded to break all her shit. I managed out before running back into the apartment because I'm not leaving BF alone with him. When I get back the situation has gone tits up. He's now standing in the living room with a kitchen knife to his throat saying that BF is the love of his life, and if she doesn't take him back he's going to kill himself, even intimating that the cops wouldn't believe it was a suicide, and I would go to jail for his murder.
+MentalHealth	My girlfriend (24f) seems to be completely unaware of any issues here, and I've been trying to explain it to her for the last three years. She's upset nearly constantly, and when she's not, it's like walking on eggshells so as to not set her off. She's very disrespectful towards me in particular and nobody else. Not just the things she's saying, but her general demeanor all around. I think she has a genuine disorder. I know she suffers from anxiety and depression (and refuses to do anything about it), but this is personality disorder level of fucked up and I don't think I can take it anymore. My home isn't safe anymore. I don't sleep well.
+MentalHealth	this girl in my class hasn't showered in a long time and she smells - i think somethings wrong
+ViolentCrime	just saw a hit and run
+ViolentCrime	Help I'm being assaulted
+ViolentCrime	Help I'm being assaulted
+ViolentCrime	Please help me; I'm being assaulted.
+ViolentCrime	I have a fight happening please hurry
+ViolentCrime	Kids fighting outside the store.
+ViolentCrime	I have a fight please hurry
+Threat/VerbalAbuse	I need someone to escort a lady that’s being rude and yelling in the store.
+Theft/LostItem	Two individuals a guy and a girl came in and grabbed clothes of our front fixture.
+Theft/LostItem	A person came and stole a bunch of merchandise from my store.
+Theft/LostItem	Customers are stealing and shoplifting can you send security.
+Theft/LostItem	People took jeans and sweaters from Gap. The thief is going to another store now.
+Theft/LostItem	4 speakers were stolen in Sprint like 30 minutes ago
+Theft/LostItem	Potential theft from our store. I can give a description of the thief.
+ViolentCrime	Fight in front of movie theater.
+Theft/LostItem	We just had 3 boys in our store, pretty sure they stole a stash jar from us.
+Theft/LostItem	Someone stole something.
+Theft/LostItem	Suspected theft. They left the store.
+Theft/LostItem	Another potential theft. Extremely suspicious. Still in store.
+Theft/LostItem	Three girls caught trying to steal from Icing.
+Theft/LostItem	Group of girls possibly stole and attempting to steal from the store avoiding associate.
+Theft/LostItem	These group of kids have been in our store a few times trying to conceal merchandise.
+Theft/LostItem	We have a group of shoplifters in the store trying to steal goods.
+Theft/LostItem	This is one of the kids that attempted to rob a group of Asian kids.
+Theft/LostItem	A girl holding a marshals plastic bag attempting to steal and once apprehended she zoomed out the store.
+Theft/LostItem	This couple went into dressing room with their stroller and we found some sensors in there after they left. Might want to keep an eye on them cause they have big bags. They were heading towards H&M
+Harassment/Abuse	We've been reporting a gentleman who comes in and has stalking like behaviors.
+Theft/LostItem	A group of teenagers has been taking merchandise into the changing rooms and removing the tags. They have been stealing from a number of stores repeatedly. Not the first time this has happened.
+Theft/LostItem	Somebody just stole my MacBook Pro laptop from the second floor of the library.
+Theft/LostItem	I would like to report my bike stolen from campus.
+Demonstration/Protestors	I think this crowd outside the building might turn violent soon. This could become a riot.
+Demonstration/Protestors	Rioters getting rowdy in downtown New York. These demonstrations are scaring away customers.
+Demonstration/Protestors	There are demonstrators protesting outside of the Social Security building. They are blocking the entrances and breaking property.
+Demonstration/Protestors	Demonstrations and protests are scheduled for 3:00 today. Protestors will be marching down 5th Avenue and rallying for a cause.
+Demonstration/Protestors	Crowds are massing in the streets. People are unable to exit the building without the mob screaming at them.
+Demonstration/Protestors	Protesters in at World Trade Center
+Suspicious/UnattendedPackage	I received a strange letter in my mail box that I hesitant to open because it isn’t even addressed to me. Pictures attached—I'm not sure what to do with the letter and don’t want to send it back out to the mailroom.
+Suspicious/UnattendedPackage	There is an unattended backpack on the first floor of the student center across from the elevators.
+Theft/LostItem	Can you send security to our store please, we have a family trying to steal a good amount of merchandise. There is 2 adults and 2 teens and it’s super suspicious and we are sure they have items.
+Theft/LostItem	Guy wearing a coat with a bag looking at soccer socks. Our security saw and he put the socks back and left the store.
+Theft/LostItem	Customer stealing at carter's.
+ViolentCrime	I was assaulted at the F 21 today.
+Theft/LostItem	I received a tip from a customer that another customer on line was talking about stealing something from our store. He is wearing a black jacket with a patch on the left arm. He is in line outside of the store.
+Theft/LostItem	Customer in here that has shoplifted before.
+Theft/LostItem	4 boys stealing walking towards us.
+Theft/LostItem	Hot requesting a walk through please. We have a group of kids we overheard talking about stealing.
+Drugs/Alcohol	jewelry counter lady outside express - has been told multiple times by store manager and other managers of the store that she is not permitted to use her vape in the store. I had several customers complain about her smoke and I asked politely not to vape in the store and she continued unphased . it is causing an issue with my other customers experience. Vaping is not allowed on mall grounds.
+Theft/LostItem	Gap got hit in front of store about 15 minutes ago. Took jeans and sweaters. Female and 3 males. Store reported to me just now.
+Theft/LostItem	Unknown male tried to shoplift 12 shirts worth $1200 at store. Was able to recover all items, but unknown male got away from attempted apprehension and ran out through first floor side.
+Theft/LostItem	A man outside of Publics selling clothes from a bag. I think he stole all that stuff from other stores.
+Theft/LostItem	Had a young kid run towards JC with a large bag of M products. Stolen, he might still be in the garages.
+Theft/LostItem	Girl in the fitting room has a sweater from our store in her bag - waiting to see if she’ll take it out or steal it.
+Theft/LostItem	Subject that had bags of stolen merchandise recovered at JC.
+Theft/LostItem	Multiple locker break ins at X Sport.
+Theft/LostItem	Group of teens stealing. Please come to store. Thanks!
+ViolentCrime	Active shooter in the main quad of campus. Please send help.
+ViolentCrime	Active shooter in the Building. Shots fired.
+Threat/VerbalAbuse	I just overheard an employee talking on the phone that he was upset at his boss and that, “he will be sorry when he comes strapped to work tomorrow...”
+MentalHealth	Today wasn’t a good day. I’ve dealt with depression before for the past 5 years and there used to be many thoughts of ending it. As well as an “almost” attempt. I was doing fine and better. It all just came out of nowhere and I'm just in a state of mind I don’t want to be in...
+MentalHealth	Man in clinic clearly demonstrating strange behavior related to mental health issues.
+Demonstration/Protestors	There is a large group of people gathering in the parking lot carrying signs and protesting. The protest seems peaceful.
+Threat/VerbalAbuse	Customer with private phone number called customer service line and is threatening associates and threatening to go harm associates at the local office.
+MentalHealth	My coworker AB has lost his damn mind. He missed work because he froze his feet off, then verbally abused our boss calling him a "cracker" and saying "fine me for that". He is out of control

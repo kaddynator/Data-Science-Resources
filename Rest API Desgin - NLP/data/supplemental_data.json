@@ -1,0 +1,8 @@
+[
+  {"EventType":  "Drugs/Alcohol", "Tip": "My friend just overdosed and needs help ASAP"},
+  {"EventType":  "Threat/VerbalAbuse", "Tip": "There is a chef waving a knife wandering the restaurant and yelling"},
+  {"EventType":  "Harassment/Abuse", "Tip": "Need security to escort a customer out who is being rude and saying racial comments."},
+  {"EventType":  "Theft/LostItem", "Tip": "Sprint store got robbed for phones."},
+  {"EventType":  "Threat/VerbalAbuse", "Tip": "There is a man on the sidewalk yelling at people coming in to the building"},
+  {"EventType":  "Drugs/Alcohol", "Tip": "Sherry Bardy has a flask in her filing cabinet.  I'm not sure what is in it but I am concerned she may be drinking during the day"}
+]
