@@ -1,6 +1,9 @@
 # Design a REST API for Text Classification
 
 ## Tasks
+
+Design a Panic Text Classification system and design an API to implement the algorithm. Scale the machine learning model to balance more number of prediction request simultaneously when given to the system using Docker Containers.
+
 ### Question 1: 
 
 **Provide thoughts on how changing parameters in the vectorizer might affect the overall results of the model.** 
@@ -82,3 +85,12 @@ The output of the GET request is
         "MentalHealth"
     ]
 ]` 
+
+**Resources:**
+
+1. Tuning Machine Learning Models into API:
+https://www.datacamp.com/community/tutorials/machine-learning-models-api-python
+
+2. Intro to APIs:
+https://www.kaggle.com/rtatman/careercon-intro-to-apis
+
